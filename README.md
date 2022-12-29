@@ -1,5 +1,6 @@
 # automated-birthday-wisher
 Automatically sends birthday wishes to your friends and family through email.
+
 STEP 1:
   Add as many letter templates in the 'letter_templates' folder named as 'letter_1' and so on.
  
